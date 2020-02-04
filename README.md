@@ -1,0 +1,2 @@
+# InfoApp
+ BasicInfoApp
