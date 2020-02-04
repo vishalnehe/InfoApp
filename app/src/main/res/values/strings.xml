@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">InfoApp</string>
+    <string name="user_name">Name</string>
+    <string name="age">Age</string>
+    <string name="origin">Origin :</string>
+    <string name="os">OS :</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="confirm">Confirm</string>
+    <string name="icon">User Icon</string>
+    <string-array name="origins">
+        <item>Choose Origin</item>
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Australia</item>
+        <item>Europe</item>
+    </string-array>
+    <string name="originErrorString">Origin not selected</string>
+    <string name="osErrorString">OS not selected</string>
+    <string name="nameEmptyErrorString">Name cannot be empty</string>
+    <string name="nameLengthErrorString">Name too long</string>
+    <string name="ageEmptyErrorString">Age cannot be empty</string>
+    <string name="ageMaxErrorString">Age cannot exceed 100</string>
+</resources>
