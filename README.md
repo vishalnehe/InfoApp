@@ -1,2 +1,2 @@
 # InfoApp
- BasicInfoApp
+ Android App
